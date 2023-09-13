@@ -91,7 +91,7 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
-        description: "Projet de Porfolio de photographe.",
+        description: "Projet de Portfolio de photographe.",
         link: "#",
     },
     {
