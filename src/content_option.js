@@ -19,7 +19,7 @@ const introdata = {
 
 const dataabout = {
     title: "Mon parcours :",
-    aboutme: "Je suis un développeur Web et Web mobile, spécialisé en Back-End avec une expertise particulière dans la technologie Symfony. Mon parcours professionnel est considéré comme atypique, car j'ai effectué une reconversion grâce à l'école O'clock. Mon expérience précédente en tant que sous-chef dans le domaine de la restauration semi-gastronomique constitue une compétence que j'utilise pleinement dans mon travail quotidien.Aujourd'hui, après d'incessants efforts, je suis en mesure de réussir vos projets. Ma curiosité naturelle m'incite à ne pas me limiter au Back-End ; je continue de me former dans divers domaines tels que le Front-End, l'administration système, la cybersécurité, et bien d'autres encore.",
+    aboutme: "Je suis un développeur Web et Web mobile, spécialisé en Back-End avec une expertise particulière dans la technologie Symfony. Mon parcours professionnel est considéré comme atypique, car j'ai effectué une reconversion grâce à l'école O'clock. Mon expérience précédente en tant que sous-chef dans le domaine de la restauration semi-gastronomique constitue une compétence que j'utilise pleinement dans mon travail quotidien. Aujourd'hui, après d'incessants efforts, je suis en mesure de réussir vos projets. Ma curiosité naturelle m'incite à ne pas me limiter au Back-End; je continue de me former dans divers domaines tels que le Front-End, l'administration système, la cybersécurité, et bien d'autres encore.",
 };
 const worktimeline = [{
         jobtitle: "RNCP niveau 6 (bac+3/4) 'CDA'",
